@@ -22,5 +22,5 @@ spec:
         project: expense
     spec:
       containers:
-      - name: mysql
-        image: nanda1516/mysql:v1
+        - name: mysql
+          image: nanda1516/mysql:v1
